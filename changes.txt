@@ -23,3 +23,4 @@
 "Commit The billboard handles." 
 "Commit The bone moves." 
 "Commit The contagion dusts." 
+"Commit The apse decays." 
