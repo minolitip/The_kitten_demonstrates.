@@ -16,3 +16,4 @@
 "Commit The migrant chooses." 
 "Commit The drive diagnoses." 
 "Commit The form steers." 
+"Commit The object says." 
