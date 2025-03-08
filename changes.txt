@@ -27,3 +27,4 @@
 "Commit The garment burns." 
 "Commit The boxspring dams." 
 "Commit The billion counts." 
+"Commit The cofactor locks." 
