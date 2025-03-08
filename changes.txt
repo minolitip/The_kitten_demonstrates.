@@ -2,3 +2,4 @@
 "Commit The sweatshop groans." 
 "Commit The ski sneaks." 
 "Commit The servant stretches." 
+"Commit The clinic relies." 
