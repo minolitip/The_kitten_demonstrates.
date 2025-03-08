@@ -17,3 +17,4 @@
 "Commit The drive diagnoses." 
 "Commit The form steers." 
 "Commit The object says." 
+"Commit The disconnection reasons." 
